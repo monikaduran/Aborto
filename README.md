@@ -11,7 +11,9 @@ Ingresando el link de la pagina en el navegador de preferencia.
 
 Autor y Link
 Monica Katherine Duran Vaca
+ https://monikaduran.github.io/Aborto/
 
 Screenshot:
+https://screenshot.net/es/r7rj1bl
 
 
